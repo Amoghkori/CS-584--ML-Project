@@ -1,7 +1,7 @@
 # CS-584-ML-Project
 Machine Learning Project
 
-# Goup - 32 
+# Group - 32 
 
 AKSHAY SINGH
 AMOGH KORI
